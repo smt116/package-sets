@@ -1230,7 +1230,7 @@
       "web-html"
     ],
     "repo": "https://github.com/slamdata/purescript-halogen-vdom.git",
-    "version": "v6.1.0"
+    "version": "v3.0.1"
   },
   "heterogeneous": {
     "dependencies": [
